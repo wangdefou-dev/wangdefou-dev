@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_3b82f6&height=280&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Hacker%20%7C%20AI%20%26%20SEO&descAlignY=55&descAlign=50" alt="header" width="100%" />
-
-  <h1 align="center">Hi there, I'm <a href="https://x.com/wangdefou" target="_blank">WangDefou</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://x.com/wangdefou" target="_blank">WangDefou</a> 👋</h1>
+  <h3>Indie Hacker | AI & SEO</h3>
 
   <p align="center">
     <a href="https://x.com/wangdefou">
