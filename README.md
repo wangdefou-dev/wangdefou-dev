@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_3b82f6&height=280&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20WangDefou%20%7C%20Frontend%20Expert&descAlignY=55&descAlign=50" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_3b82f6&height=280&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Hacker%20%7C%20AI%20%26%20SEO&descAlignY=55&descAlign=50" alt="header" width="100%" />
 
   <h1 align="center">Hi there, I'm <a href="https://x.com/wangdefou" target="_blank">WangDefou</a> 👋</h1>
 
@@ -15,16 +15,21 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 关于我 (About Me)
 
-> **"Turning coffee into clean, reusable code."** ☕
+> **"持续学习，持续实践"** 🚀
 
-I am a **Senior Frontend Developer** specializing in building exceptional digital experiences. Currently focused on the modern React ecosystem.
+大家好，我是**得否 (WangDefou)**，目前在 **广东珠海**。
 
-- 🔭 I’m currently working on **Next.js & Enterprise UI Systems**.
-- 🌱 I’m deeply exploring **Server Components & Edge Runtime**.
-- 🎨 I love **TailwindCSS** for its utility-first philosophy.
-- 💬 Ask me about **React, TypeScript, Performance Optimization**.
+� **过往经历**  
+运营出身，以前在北京创业搞过共享服装项目，后来项目黄了。
+
+🏢 **当前状态**  
+- **主业**：珠海本地企业福利采购。
+- **副业**：出海探索，包括 **SEO**、**AI 小工具开发**、**推特运营** 等。
+
+🌱 目前还在持续学习和实践中，以后多向各位大佬学习呀！[抱拳]
+
 - 📫 Reach me on X: [**@wangdefou**](https://x.com/wangdefou)
 
 ---
